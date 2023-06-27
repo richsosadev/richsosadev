@@ -31,4 +31,4 @@
 
 ---
 
-Credits to Rich $osa
+**Credits to Rich $osa**
