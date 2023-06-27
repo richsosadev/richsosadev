@@ -10,7 +10,7 @@
 
 - 📫 You can contact me through my email. **richsosadev@extfabs.cl**
 
-- 🌎 I am currently learning languages ​​and studying to improve. **React.js**
+- 🌎 I am currently learning languages ​​and studying to improve programming / **More than 3 years of experience**
 
 
 <div align="left">
